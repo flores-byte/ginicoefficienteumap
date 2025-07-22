@@ -1,6 +1,6 @@
 # ginicoefficienteumap
 
-![cover](dashboard/gini_map_preview.png)
+![cover](dashboard-map/gini_map_preview.png)
 
 
 An EDA based on World Bank's income inequality data (Gini Index) between 2014 and 2024. The analysis is narrowed down to the European Union member states to stay consistent with regional socio-economic policy relevance.
@@ -17,7 +17,7 @@ The dataset is located in the "data" folder.
 
 The Jupyter notebook is in the "notebook" folder.
 
-The interactive dashboard is saved as an HTML file in the "dashboard" folder.
+The interactive dashboard is saved as an HTML file in the "dashboard-map" folder.
 
 No essay is included in this project since the year-by-year visualization provides a self-explanatory view of the inequality dynamics.
 
