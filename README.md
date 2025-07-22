@@ -16,3 +16,8 @@ The Jupyter notebook is in the "notebook" folder.
 The interactive dashboard is saved as an HTML file in the "dashboard" folder.
 
 No essay is included in this project since the year-by-year visualization provides a self-explanatory view of the inequality dynamics.
+
+**Resources**
+
+- [Eurostat: Gini coefficient of equivalised disposable income - EU-SILC survey](https://ec.europa.eu/eurostat/databrowser/view/tessi190__custom_17551990/default/table)
+
