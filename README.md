@@ -1,5 +1,10 @@
 # ginicoefficienteumap
 
+## Repository contents
+- `notebook/` — Jupyter notebook with the full analysis
+- `data/` — dataset used
+- `dashboard-map/` — interactive choropleth map (HTML) and preview image
+
 An EDA based on World Bank's income inequality data (Gini Index) between 2014 and 2024. The analysis is narrowed down to the European Union member states to stay consistent with regional socio-economic policy relevance.
 
 Pandas and GeoPandas were used for data cleaning and reshaping, and Plotly was used to create an interactive choropleth map that visualizes inequality trends over time.
